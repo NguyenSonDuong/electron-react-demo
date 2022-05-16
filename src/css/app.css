@@ -1,0 +1,17 @@
+.inputcustom{
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    box-shadow: 3px 3px 5px #888888 ;
+    outline: none;
+    text-decoration: none;
+}
+
+.buttoncustom{
+    margin: 20px;
+    padding: 15px 30px 15px 30px;
+    border: none;
+    background-color: bisque;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #888888 ;
+}
